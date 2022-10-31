@@ -1,0 +1,6 @@
+.idea
+db.sqlite3
+user/migrations
+post/migrations
+venv
+.env
